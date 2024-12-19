@@ -2,6 +2,10 @@
 
 Часови по програмирање со C++ програмски јазик.
 
+Видеа:  
+https://www.youtube.com/watch?v=nQBV2_YOxP4&list=PLwC58UwfYzi6nkd7fuGHAPt_l6nxEfgq4
+
+
 https://ivohost.com
 
 
